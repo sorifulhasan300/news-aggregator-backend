@@ -1,0 +1,4 @@
+node_modules
+dist
+# Ignore logs and debug files
+config.bat
